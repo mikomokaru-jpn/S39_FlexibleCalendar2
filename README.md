@@ -1,4 +1,4 @@
-## S39_FlexibleCalendar2
+## macOS S39_FlexibleCalendar2
 
 ## Annual calendar
 Confirmed operation: MacOS 10.14.6 / Xcode 11.3.1
